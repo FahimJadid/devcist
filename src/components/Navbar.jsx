@@ -18,7 +18,7 @@ const Navbar = () => {
                 <AiOutlineMenu size={30}/>
             </div>
             <h1 className="text-2xl sm:text-3xl lg:text-4xl px-2">
-                <span className="font-bold">Devcists</span> <strong>S</strong>uper</h1>
+                <span className="font-bold text-blue-600">Devcists</span> <strong className="text-orange-600">S</strong>uper</h1>
             <div className="hidden lg:flex items-center bg-gray-200 rounded-full p-1 text-[14px]">
                 <p className="bg-black text-white rounded-full p-2">Delivery</p>
                 <p className="p-2">Pickup</p>
